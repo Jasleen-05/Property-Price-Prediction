@@ -2,7 +2,13 @@ Property Price Prediction using Linear Regression
 
 📦 Project Overview
 
-Property Price Prediction using Linear Regression leverages historical property data to predict real estate prices based on various factors such as location, area, number of bedrooms, bathrooms, and amenities. The model is developed using Python and Scikit-Learn to provide accurate price estimates, assisting buyers, sellers, and investors in making data-driven decisions.
+This project focuses on predicting property prices in various districts of California using several district-level features. By building a predictive model, we aim to identify key variables that influence housing prices and improve the accuracy of house value predictions. The project will specifically utilize simple linear regression and multiple linear regression to address this regression task, ensuring proper data handling and evaluation of the models.
+
+🧐 Problem Statement
+
+The objective is to predict the median house value in California districts based on features such as income, the number of rooms, geographical location, and proximity to the ocean. Given the dataset, we will develop regression models, evaluate their performance, and determine which model provides the best balance between predictive accuracy and interpretability.
+
+Refer to the Data information.pdf for more details on variables before importing the data to the notebook.
 
 ✅ Features
 
