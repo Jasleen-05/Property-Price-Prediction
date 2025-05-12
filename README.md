@@ -1,4 +1,4 @@
-Property Price Prediction using Linear Regression
+##**Property Price Prediction using Linear Regression**
 
 📦 Project Overview
 
