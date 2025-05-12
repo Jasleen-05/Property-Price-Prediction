@@ -15,7 +15,7 @@ Refer to the Data information.pdf for more details on variables before importing
 * Predict property prices using linear regression.
 * Analyze the impact of different property attributes on pricing.
 * Data visualization for better insights.
-* Model evaluation using MAE, MSE, and R² score.
+* Model evaluation using Accuracy Score, Precision, Recall, F1-Score, Confusion Matrix
 
 🛠️ Tech Stack
 
