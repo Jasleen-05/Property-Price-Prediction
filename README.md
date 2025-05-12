@@ -60,8 +60,11 @@ The model will output predictions and visualizations.
 
 📈 Evaluation Metrics
 
-* Mean Squared Error (MSE)
-* R-squared Score (R²)
+* Accuracy Score
+* Precision
+* Recall
+* F1-Score
+* Confusion Matrix
 
 📄 License
 
