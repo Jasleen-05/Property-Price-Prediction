@@ -17,7 +17,7 @@ Refer to the Data information.pdf for more details on variables before importing
 * Data visualization for better insights.
 * Model evaluation using Accuracy Score, Precision, Recall, F1-Score, Confusion Matrix
 
-💬 “Live Demo: https://property-price-prediction-jasleen.streamlit.app/"
+💬 “Live Demo: https://property-price-prediction-jasleen.streamlit.app/”
 
 🛠️ Tech Stack
 
